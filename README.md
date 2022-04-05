@@ -1,4 +1,4 @@
-# VideoResimAktarma
+# Video Resim Aktarma
 Video ve resimlerinizi kolayca kaydedebilirsiniz.
 Video ve resimlerinizi isim değiştirerek hem veri tabanınıza 
 hem de belirlediğiniz dosyaya kaydedebilirsiniz.
